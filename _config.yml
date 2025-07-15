@@ -1,0 +1,9 @@
+theme: minima
+title: Kelly’s MacAdmins Blog
+url: https://verso.github.io
+description: Kelly's site for things. Also stuff. 
+plugins:
+  - jekyll-feed
+author:
+  name: Kelly Guimont
+  mastodon: verso@mastodon.social
